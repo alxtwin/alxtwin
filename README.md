@@ -4,6 +4,11 @@
 
 dev based in :umbrella:Curitiba:cloud:
 
+~~~
 Currently learning:
-- Python :snake:
 - DevOps practices and cybersecurity :closed_lock_with_key:
+- Python :snake:
+- Java
+- .Net framework
+- Angular
+~~~
