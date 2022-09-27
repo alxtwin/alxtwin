@@ -12,3 +12,9 @@ Currently learning:
 - .Net framework
 - Angular
 ~~~
+
+**oh yeah I love the cute chubby penguin** 
+<div align="center" style="border:3px solid green">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="500" height="300"/>  
+</div>
+**thank you O' kind chubby penguin 
