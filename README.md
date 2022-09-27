@@ -2,11 +2,8 @@
 <img src="https://assets.pcinvasion.com/wp-content/uploads/2022/06/Cyberpunk-Edgerunner-screenshot.jpg" width="500" height="300"/>  
 </div>
 
-<div align="center" style="border:3px solid green">
 **dev based in :umbrella:Curitiba:cloud:**
-</div>
 
-<div align="center" style="border:3px solid green">
 ~~~
 Currently learning:
 - DevOps practices and cybersecurity 
@@ -15,4 +12,3 @@ Currently learning:
 - .Net framework
 - Angular
 ~~~
-</div>
