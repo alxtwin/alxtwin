@@ -13,6 +13,15 @@ Currently learning:
 - Angular
 ~~~
 
+**Current repositories:**
+
+~~~
+https://github.com/alxtwin/valida-cnpj -> CNPJ validation
+https://github.com/alxtwin/guessing-game -> number guessing game 
+https://github.com/alxtwin/artilheiros-check -> top scorers
+
+~~~
+
 
 
 **oh yeah I love the cute chubby penguin** 
