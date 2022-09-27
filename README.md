@@ -18,7 +18,7 @@ Currently learning:
 **oh yeah I love the cute chubby penguin** 
 
 <div align="center" style="border:3px solid green">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="300" height="100"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="100" height="300"/>  
 </div>
 
 **thank you kind chubby penguin**
