@@ -14,14 +14,9 @@ Currently learning:
 ~~~
 
 **Current repositories:**
-
-~~~
-https://github.com/alxtwin/valida-cnpj -> CNPJ validation
-https://github.com/alxtwin/guessing-game -> number guessing game 
-https://github.com/alxtwin/artilheiros-check -> top scorers
-
-~~~
-
+- [CNPJ validation](https://github.com/alxtwin/valida-cnpj)
+- [number guessing game](https://github.com/alxtwin/guessing-game)
+- [top scorers check](https://github.com/alxtwin/artilheiros-check )
 
 
 **oh yeah I love the cute chubby penguin** 
