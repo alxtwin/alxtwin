@@ -10,7 +10,7 @@ Currently learning:
 - Python
 - Java
 - .Net framework
-- Angular
+- Angular (alongside with JS)
 ~~~
 
 **Current repositories:**
