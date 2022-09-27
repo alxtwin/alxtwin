@@ -2,7 +2,7 @@
 <img src="https://assets.pcinvasion.com/wp-content/uploads/2022/06/Cyberpunk-Edgerunner-screenshot.jpg" width="500" height="300"/>  
 </div>
 
-dev based in :umbrella:Curitiba:cloud:
+**dev based in :umbrella:Curitiba:cloud:**
 
 ~~~
 Currently learning:
