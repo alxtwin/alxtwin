@@ -8,7 +8,7 @@ Currently learning:
 - Python
 - Java
 - .Net framework
-- Angular (alongside with JS)
+- ReactJS
 ~~~
 
 **Current repositories:**
