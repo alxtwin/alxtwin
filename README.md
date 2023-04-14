@@ -11,15 +11,6 @@ Currently learning:
 - ReactJS
 ~~~
 
-**Current repositories:**
-- [CNPJ validation](https://github.com/alxtwin/valida-cnpj) 🐍
-- [number guessing game](https://github.com/alxtwin/guessing-game) 🐍
-- [top scorers check](https://github.com/alxtwin/artilheiros-check) 🐍
-- [Zombie Dice game](https://github.com/alxtwin/zombie-dice) 🐍
-- [Rest web-API with EFCore](https://github.com/alxtwin/Rest-web-api-with-EFCore) 🦄
-
-
-
 
 <div style="border:3px solid green">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="80" height="100"/>  
